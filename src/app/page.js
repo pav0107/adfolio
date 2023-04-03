@@ -8,9 +8,6 @@ const inter = Inter({ subsets: ['latin'] });
 export default function Home() {
   return (
     <div>
-      <div>
-        <Nav />
-      </div>
       <div className="flex flex-wrap">
         <Client client="Macmillan" img="/Macmillan/A.jpg" alt="Macmillan" />
         <Client

@@ -7,7 +7,6 @@ function Macmillan() {
   return (
     // <div class="relative flex justify-center items-center w-1/2 h-80 group cursor-pointer">
     <div>
-      <Nav />
       hello
       {/* <Image
         src={img}
