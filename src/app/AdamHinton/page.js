@@ -1,11 +1,15 @@
 import React from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
+import Nav from '../Nav';
 
-function Client({ client, img, alt }) {
+function Macmillan() {
   return (
-    <div class="relative flex justify-center items-center w-1/2 h-80 group cursor-pointer">
-      <Image
+    // <div class="relative flex justify-center items-center w-1/2 h-80 group cursor-pointer">
+    <div>
+      <Nav />
+      hello
+      {/* <Image
         src={img}
         alt={alt}
         fill={true}
@@ -17,11 +21,11 @@ function Client({ client, img, alt }) {
       <h1 class="absolute text-white text-3xl font-bold z-[3] hidden group-hover:block">
         {client}
       </h1>
-      <Link href={`/${client.replace(/[/\s]/g, '')}`}>
+      <Link href={`/${client}`}>
         <div class="absolute top-0 left-0 right-0 bottom-0 bg-black/10 hover:bg-black/80 z-[2]"></div>
-      </Link>
+      </Link> */}
     </div>
   );
 }
 
-export default Client;
+export default Macmillan;
