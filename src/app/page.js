@@ -12,18 +12,34 @@ export default function Home() {
         <Nav />
       </div>
       <div className="flex flex-wrap">
+        <Client client="Macmillan" img="/Macmillan/A.jpg" alt="Macmillan" />
         <Client
-          background="bg-red-200"
-          client="Macmillan"
-          img="/Macmillan/A.jpg"
+          client="Reprieve"
+          img="/Reprieve/reprieve.jpg"
+          alt="Macmillan"
         />
-        <Client client="Reprieve" img="/Reprieve/reprieve.jpg" />
-        <Client client="fish4" img="/fish4/fish.jpg" />
-        <Client client="Nokia" img="/Nokia/nokia.png" />
-        <Client client="Adam Hinton" img="/AdamHinton/india_night2.jpg" />
-        <Client client="Pinchgut Opera" img="/Pinchgut/pinchgut.png" />
-        <Client client="Campaign Against Arms Trade" img="/CAAT/CAAT2.png" />
-        <Client client="BMS/Pfizer Alliance" img="/Healthcare/healthcare.jpg" />
+        <Client client="fish4" img="/fish4/fish.jpg" alt="fish4" />
+        <Client client="Nokia" img="/Nokia/nokia.png" alt="Nokia" />
+        <Client
+          client="Adam Hinton"
+          img="/AdamHinton/india_night2.jpg"
+          alt="Adam Hinton"
+        />
+        <Client
+          client="Pinchgut Opera"
+          img="/Pinchgut/pinchgut.png"
+          alt="Pinchgut Opera"
+        />
+        <Client
+          client="Campaign Against Arms Trade"
+          img="/CAAT/CAAT2.png"
+          alt="CAAT"
+        />
+        <Client
+          client="BMS/Pfizer Alliance"
+          img="/Healthcare/healthcare.jpg"
+          alt="BMS/Pfizer Alliance"
+        />
         {/* <Client client="Stand-up comedy" img="/Standup/standup.jpg" />
         <Client client="Honda" img="/Honda/honda.jpg" /> */}
       </div>
