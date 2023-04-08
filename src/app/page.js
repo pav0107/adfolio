@@ -9,7 +9,11 @@ export default function Home() {
   return (
     <div>
       <div className="flex flex-wrap">
-        <Client client="Macmillan" img="/Macmillan/A.jpg" alt="Macmillan" />
+        <Client
+          client="Macmillan Cancer Support"
+          img="/Macmillan/A.jpg"
+          alt="Macmillan"
+        />
         <Client
           client="Reprieve"
           img="/Reprieve/reprieve.jpg"
