@@ -10,13 +10,13 @@ export default function Home() {
     <div>
       <div className="flex flex-wrap">
         <Client
-          client="Macmillan Cancer Support"
-          img="/Macmillan/A.jpg"
+          client="Reprieve"
+          img="/Reprieve/reprieve.jpg"
           alt="Macmillan"
         />
         <Client
-          client="Reprieve"
-          img="/Reprieve/reprieve.jpg"
+          client="Macmillan Cancer Support"
+          img="/Macmillan/macmillan.jpg"
           alt="Macmillan"
         />
         <Client client="fish4" img="/fish4/fish.jpg" alt="fish4" />
@@ -41,8 +41,12 @@ export default function Home() {
           img="/Healthcare/healthcare.jpg"
           alt="BMS/Pfizer Alliance"
         />
-        {/* <Client client="Stand-up comedy" img="/Standup/standup.jpg" />
-        <Client client="Honda" img="/Honda/honda.jpg" /> */}
+        <Client
+          client="Stand-up comedy"
+          img="/Standup/standup.png"
+          alt="Standup"
+        />
+        {/* <Client client="Honda" img="/Honda/honda.jpg" /> */}
       </div>
     </div>
   );
