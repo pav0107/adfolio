@@ -18,7 +18,10 @@ function Client({ client, img, alt }) {
         {client}
       </h1>
       <Link href={`/${client.replace(/[/\s]/g, '')}`}>
-        <div class="absolute top-0 left-0 right-0 bottom-0 bg-black/10 hover:bg-black/80 z-[2]"></div>
+        <div
+          class="absolute top-0 left-0 right-0 bottom-0
+         bg-black transition-opacity opacity-0 hover:opacity-70 duration-500 ease-in-out z-[2]"
+        ></div>
       </Link>
     </div>
   );
