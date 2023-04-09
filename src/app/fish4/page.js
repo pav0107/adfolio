@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 
-function Reprieve() {
+function fish4() {
   return (
     <div className="flex flex-col items-center justify-center m-8">
       <h1 className="mb-8 text-4xl font-bold">Press ads</h1>
@@ -29,4 +29,4 @@ function Reprieve() {
   );
 }
 
-export default Reprieve;
+export default fish4;
