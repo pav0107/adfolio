@@ -14,13 +14,18 @@ export default function Home() {
           img="/Reprieve/reprieve.jpg"
           alt="Macmillan"
         />
-        <Client
-          client="Macmillan Cancer Support"
-          img="/Macmillan/macmillan.jpg"
-          alt="Macmillan"
-        />
         <Client client="fish4" img="/fish4/fish.jpg" alt="fish4" />
         <Client client="Nokia" img="/Nokia/nokia.png" alt="Nokia" />
+        <Client
+          client="Campaign Against Arms Trade"
+          img="/CAAT/CAAT2.png"
+          alt="CAAT"
+        />
+        <Client
+          client="BMS/Pfizer Alliance"
+          img="/Healthcare/healthcare.jpg"
+          alt="BMS/Pfizer Alliance"
+        />
         <Client
           client="Adam Hinton"
           img="/AdamHinton/india_night2.jpg"
@@ -32,15 +37,11 @@ export default function Home() {
           alt="Pinchgut Opera"
         />
         <Client
-          client="Campaign Against Arms Trade"
-          img="/CAAT/CAAT2.png"
-          alt="CAAT"
+          client="Macmillan Cancer Support"
+          img="/Macmillan/macmillan.jpg"
+          alt="Macmillan"
         />
-        <Client
-          client="BMS/Pfizer Alliance"
-          img="/Healthcare/healthcare.jpg"
-          alt="BMS/Pfizer Alliance"
-        />
+
         <Client
           client="Stand-up comedy"
           img="/Standup/standup.png"
