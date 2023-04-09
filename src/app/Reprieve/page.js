@@ -4,7 +4,8 @@ import Image from 'next/image';
 function Reprieve() {
   return (
     <div className="flex flex-col items-center justify-center m-8">
-      <h1 className="mb-8 text-4xl font-bold">Poster for a comedy night</h1>
+      <h1 className="mb-16 text-5xl font-bold">Reprieve</h1>
+      <h1 className="mb-8 text-4xl font-semibold">Poster for a comedy night</h1>
       <Image
         src="/Reprieve/byegeorge.jpg"
         alt="byegeorge"
@@ -30,7 +31,7 @@ function Reprieve() {
         </p>
       </div>
 
-      <h1 className="my-8 text-4xl font-bold">T-shirt designs</h1>
+      <h1 className="my-8 text-4xl font-semibold">T-shirt designs</h1>
 
       <div className="flex flex-col max-w-2xl m-4 space-y-4">
         <p>
@@ -84,7 +85,7 @@ function Reprieve() {
         />
       </div>
 
-      <h1 className="mb-8 text-4xl font-bold">zero dB</h1>
+      <h1 className="mb-8 text-4xl font-semibold">zero dB</h1>
     </div>
   );
 }

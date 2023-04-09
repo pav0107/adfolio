@@ -4,7 +4,8 @@ import Image from 'next/image';
 function Nokia() {
   return (
     <div className="flex flex-col items-center justify-center m-8">
-      <h1 className="mb-8 text-4xl font-bold">In-store videos</h1>
+      <h1 className="mb-16 text-5xl font-bold">Nokia</h1>
+      <h1 className="mb-8 text-4xl font-semibold">In-store videos</h1>
 
       <iframe
         src="https://player.vimeo.com/video/7902608?h=d85b0c85e8&title=0&byline=0&portrait=0"

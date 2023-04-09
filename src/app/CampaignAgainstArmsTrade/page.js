@@ -4,7 +4,10 @@ import Image from 'next/image';
 function CAAT() {
   return (
     <div className="flex flex-col items-center justify-center m-8">
-      <h1 className="mb-8 text-4xl font-bold">Stunt</h1>
+      <h1 className="mb-16 text-5xl font-bold">
+        CAAT (Campaign Against Arms Trade)
+      </h1>
+      <h1 className="mb-8 text-4xl font-semibold">Stunt</h1>
 
       <iframe
         width="800"
@@ -14,7 +17,7 @@ function CAAT() {
         allowfullscreen
       ></iframe>
 
-      <div className="flex flex-col max-w-2xl m-4 space-y-4">
+      <div className="flex flex-col max-w-2xl mt-8 space-y-4">
         <p>
           I approached Campaign Against Arms Trade (CAAT) early in 2013, with
           art-director Pablo Videla, to see if we could help on any projects.

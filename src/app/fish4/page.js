@@ -4,7 +4,8 @@ import Image from 'next/image';
 function fish4() {
   return (
     <div className="flex flex-col items-center justify-center m-8">
-      <h1 className="mb-8 text-4xl font-bold">Press ads</h1>
+      <h1 className="mb-16 text-5xl font-bold">fish4</h1>
+      <h1 className="mb-8 text-4xl font-semibold">Press ads</h1>
       <div className="flex flex-col space-y-16">
         <Image
           src="/fish4/clothes.jpg"
