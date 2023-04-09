@@ -1,30 +1,40 @@
 import React from 'react';
 import Image from 'next/image';
-import Link from 'next/link';
-import Nav from '../Nav';
 
-function Macmillan() {
+function Healthcare() {
   return (
-    // <div class="relative flex justify-center items-center w-1/2 h-80 group cursor-pointer">
-    <div>
-      hello
-      {/* <Image
-        src={img}
-        alt={alt}
-        fill={true}
-        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-        className="object-cover"
-        priority
-      />
+    <div className="flex flex-col items-center justify-center m-8">
+      <h1 className="mb-16 text-5xl font-bold">BMS/Pfizer Alliance</h1>
 
-      <h1 class="absolute text-white text-3xl font-bold z-[3] hidden group-hover:block">
-        {client}
-      </h1>
-      <Link href={`/${client}`}>
-        <div class="absolute top-0 left-0 right-0 bottom-0 bg-black/10 hover:bg-black/80 z-[2]"></div>
-      </Link> */}
+      <iframe
+        src="https://player.vimeo.com/video/75317280?h=753bcd15a4&title=0&byline=0&portrait=0"
+        width="800"
+        height="450"
+        frameborder="0"
+        allow="autoplay; fullscreen; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+
+      <div className="flex flex-col max-w-2xl mt-8 space-y-4">
+        <p>
+          The above piece was for a pharmaceutical client who had a stand at
+          2013's ESC (European Society of Cardiology) Congress, regarded as the
+          world’s premier conference specialising in the science, management and
+          prevention of cardiovascular disease.
+        </p>
+        <p>
+          The brief was to have posters along a walkway to advertise the stand.
+          The problem with this was that getting people's attention when they're
+          busily trying to get around was going to be tricky.
+        </p>
+        <p>
+          I thought a better idea was to use live illustration. This led to four
+          artists creating a 60m-long illustration, live over the course of the
+          four-day event.
+        </p>
+      </div>
     </div>
   );
 }
 
-export default Macmillan;
+export default Healthcare;
