@@ -85,7 +85,7 @@ function Reprieve() {
         />
       </div>
 
-      <h1 className="mt-16 mb-8 text-4xl font-semibold">zero dB</h1>
+      <h1 className="mt-16 mb-8 text-4xl font-semibold">Naming</h1>
       <Image
         src="/Reprieve/zerodBlogo.jpg"
         alt="zerodBlogo"
@@ -99,6 +99,8 @@ function Reprieve() {
           highlight the use of music torture. The very first I created for them
           was a name (see above).
         </p>
+
+        <h1 className="mt-16 mb-8 text-4xl font-semibold">Documentary</h1>
         <p>
           To clearly explain the story of music torture we decided to create a
           documentary film.
@@ -124,33 +126,36 @@ function Reprieve() {
         </p>
       </div>
 
-      <iframe
-        src="https://player.vimeo.com/video/7902785?h=ed1bf27ed8&title=0&byline=0&portrait=0"
-        width="800"
-        height="450"
-        frameborder="0"
-        allow="autoplay; fullscreen; picture-in-picture"
-        allowfullscreen
-      ></iframe>
+      <div className="flex flex-col space-y-4">
+        <iframe
+          src="https://player.vimeo.com/video/7902785?h=ed1bf27ed8&title=0&byline=0&portrait=0"
+          width="800"
+          height="450"
+          frameborder="0"
+          allow="autoplay; fullscreen; picture-in-picture"
+          allowfullscreen
+        ></iframe>
 
-      <iframe
-        src="https://player.vimeo.com/video/7903012?h=a29d7001df&title=0&byline=0&portrait=0"
-        width="800"
-        height="450"
-        frameborder="0"
-        allow="autoplay; fullscreen; picture-in-picture"
-        allowfullscreen
-      ></iframe>
+        <iframe
+          src="https://player.vimeo.com/video/7903012?h=a29d7001df&title=0&byline=0&portrait=0"
+          width="800"
+          height="450"
+          frameborder="0"
+          allow="autoplay; fullscreen; picture-in-picture"
+          allowfullscreen
+        ></iframe>
 
-      <iframe
-        src="https://player.vimeo.com/video/7903026?h=538210b434&title=0&byline=0&portrait=0"
-        width="800"
-        height="450"
-        frameborder="0"
-        allow="autoplay; fullscreen; picture-in-picture"
-        allowfullscreen
-      ></iframe>
+        <iframe
+          src="https://player.vimeo.com/video/7903026?h=538210b434&title=0&byline=0&portrait=0"
+          width="800"
+          height="450"
+          frameborder="0"
+          allow="autoplay; fullscreen; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
 
+      <h1 className="mt-16 mb-8 text-4xl font-semibold">Handouts</h1>
       <div className="flex flex-col max-w-2xl m-4 space-y-4">
         <p>
           A handout was needed to be given out at the 2009 Brit Awards to
@@ -200,7 +205,9 @@ function Reprieve() {
           height={1000}
         />
       </div>
-      <p>They also needed a mission statement:</p>
+
+      <h1 className="mt-16 mb-8 text-4xl font-semibold">Mission Statement</h1>
+      <p className="m-4">They also needed a mission statement:</p>
 
       <Image
         src="/Reprieve/missionstatement.jpg"
@@ -209,6 +216,7 @@ function Reprieve() {
         height={700}
       />
 
+      <h1 className="mt-16 mb-8 text-4xl font-semibold">Email</h1>
       <div className="flex flex-col max-w-2xl m-4 space-y-4">
         <p>
           We quickly identified that one of the most important way to generate
@@ -222,12 +230,7 @@ function Reprieve() {
         </p>
       </div>
 
-      <Image
-        src="/Reprieve/email.jpg"
-        alt="missionstatement"
-        width={700}
-        height={700}
-      />
+      <Image src="/Reprieve/email.jpg" alt="email" width={700} height={700} />
     </div>
   );
 }

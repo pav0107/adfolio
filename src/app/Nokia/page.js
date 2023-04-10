@@ -19,7 +19,7 @@ function Nokia() {
       <p className="max-w-2xl pt-8">
         I came up with the idea for this video to be played in Nokia stores to
         highlight how music is an integral part of their package. The visual
-        style was based on ascii art.
+        style was based on ASCII art.
       </p>
     </div>
   );
