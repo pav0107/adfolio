@@ -61,7 +61,7 @@ function Macmillan() {
         'Macmillan professionals' we were just talking about nurses.
       </p>
 
-      <div className="flex flex-col mt-16 space-y-2">
+      <div className="flex flex-col mt-16 space-y-8">
         <Image src="/Macmillan/poem.jpg" alt="poem" width={700} height={700} />
 
         <Image

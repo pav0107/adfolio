@@ -18,7 +18,7 @@ function AdamHinton() {
         </p>
       </div>
 
-      <div className="flex flex-col mt-4 space-y-2">
+      <div className="flex flex-col mt-4 space-y-16">
         <Image
           src="/AdamHinton/Dharavipic.png"
           alt="dharavipic"

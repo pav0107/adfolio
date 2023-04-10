@@ -54,7 +54,7 @@ function Reprieve() {
         </p>
       </div>
 
-      <div className="flex flex-col mt-4 space-y-2">
+      <div className="flex flex-col mt-4 space-y-8">
         <Image
           src="/Reprieve/redacted.jpg"
           alt="redacted"
@@ -69,7 +69,7 @@ function Reprieve() {
         />
       </div>
 
-      <div className="flex flex-col mt-16 space-y-2">
+      <div className="flex flex-col mt-16 space-y-8">
         <Image
           src="/Reprieve/tsandcs.jpg"
           alt="tsandcsclose"
@@ -93,7 +93,7 @@ function Reprieve() {
         height={700}
       />
 
-      <div className="flex flex-col max-w-2xl m-4 space-y-4">
+      <div className="flex flex-col items-center max-w-2xl m-4 space-y-4">
         <p>
           zero dB was an initiative, set up by human rights charity Reprieve, to
           highlight the use of music torture. The very first I created for them
@@ -103,17 +103,13 @@ function Reprieve() {
         <h1 className="mt-16 mb-8 text-4xl font-semibold">Documentary</h1>
         <p>
           To clearly explain the story of music torture we decided to create a
-          documentary film.
-        </p>
-
-        <p>
-          This was a huge project for me to organise and involved carrying out
-          detailed research, structuring the narrative of the film and
-          interviewing Tony Benn, Robert Del Naja (Massive Attack), Philippe
-          Sands QC (Professor of Law at UCL), Dr William Hopkins (consultant
-          psychiatrist at the Medical Foundation for the Care of Victims of
-          Torture), Moazzam Begg (former prisoner at Guantanamo Bay), Ruhal
-          Ahmed (former prisoner at Guantanamo Bay) and Christopher Arendt
+          documentary film. This was a huge project for me to organise and
+          involved carrying out detailed research, structuring the narrative of
+          the film and interviewing Tony Benn, Robert Del Naja (Massive Attack),
+          Philippe Sands QC (Professor of Law at UCL), Dr William Hopkins
+          (consultant psychiatrist at the Medical Foundation for the Care of
+          Victims of Torture), Moazzam Begg (former prisoner at Guantanamo Bay),
+          Ruhal Ahmed (former prisoner at Guantanamo Bay) and Christopher Arendt
           (former guard at Guantanamo Bay).
         </p>
 
@@ -126,7 +122,7 @@ function Reprieve() {
         </p>
       </div>
 
-      <div className="flex flex-col space-y-4">
+      <div className="flex flex-col space-y-16">
         <iframe
           src="https://player.vimeo.com/video/7902785?h=ed1bf27ed8&title=0&byline=0&portrait=0"
           width="800"
@@ -173,7 +169,7 @@ function Reprieve() {
         <p>A similar handout was given to MPs.</p>
       </div>
 
-      <div className="flex flex-col mt-16 space-y-2">
+      <div className="flex flex-col mt-16 space-y-16">
         <Image
           src="/Reprieve/handoutfront.jpg"
           alt="handoutfront"

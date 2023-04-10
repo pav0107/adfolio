@@ -6,14 +6,14 @@ function fish4() {
     <div className="flex flex-col items-center justify-center m-8">
       <h1 className="mb-16 text-5xl font-bold">fish4</h1>
       <h1 className="mb-8 text-4xl font-semibold">Press ads</h1>
-      <div className="flex flex-col space-y-16">
+      <div className="flex flex-col items-center space-y-16">
         <Image
           src="/fish4/clothes.jpg"
           alt="clothes"
-          width={700}
-          height={700}
+          width={1000}
+          height={1000}
         />
-        <Image src="/fish4/cars.jpg" alt="clothes" width={700} height={700} />
+        <Image src="/fish4/cars.jpg" alt="clothes" width={1000} height={1000} />
         <Image src="/fish4/thrash.jpg" alt="clothes" width={700} height={700} />
       </div>
 
