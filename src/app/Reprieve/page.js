@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 function Reprieve() {
   return (
-    <div className="flex flex-col items-center justify-center m-8">
+    <div className="flex flex-col items-center m-8">
       <h1 className="mb-16 text-5xl font-bold">Reprieve</h1>
       <h1 className="mb-8 text-4xl font-semibold">Poster for a comedy night</h1>
       <Image

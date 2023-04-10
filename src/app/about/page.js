@@ -16,7 +16,7 @@ function page() {
             Featured in Creative Review’s ‘Creative Futures’ showcase.
           </li>
           <li className="py-1">
-            Given my first job by Paul Belford at This is Real Art.
+            Hired for first job by Paul Belford at This is Real Art.
           </li>
           <li className="py-1">
             Previous writing includes headlines, naming initiatives, signage,
