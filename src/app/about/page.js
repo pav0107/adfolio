@@ -31,7 +31,7 @@ function page() {
           <li className="py-1">
             Performed stand-up comedy across the UK and in Europe to audiences
             of up to 400 people, winning the Bath Comedy Festival’s New Act of
-            the Year competition and getting to the semi-final of the BBC’s New
+            the Year competition and getting to the semi-final of the BBC New
             Comedy Awards.
           </li>
         </ul>

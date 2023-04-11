@@ -47,7 +47,7 @@ function Reprieve() {
           the Universal Declaration of Human Rights:
         </p>
 
-        <p>
+        <p className="italic">
           All human beings are born free and equal in dignity and rights. They
           are endowed with reason and conscience and should act towards one
           another in a spirit of brotherhood.
@@ -95,8 +95,8 @@ function Reprieve() {
 
       <p className="max-w-2xl pt-8">
         zero dB was an initiative, set up by human rights charity Reprieve, to
-        highlight the use of music torture. The very first I created for them
-        was a name (see above).
+        highlight the use of music torture. The very first thing I created for
+        them was the name 'zero dB'.
       </p>
 
       <div className="flex flex-col items-center max-w-2xl m-4 space-y-4">

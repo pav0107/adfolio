@@ -56,9 +56,9 @@ function Macmillan() {
         />
       </div>
       <p className="max-w-2xl m-4">
-        The brief for the internal poster, above, was to tackle the
-        misconception by some Macmillan staff that when we talked about
-        'Macmillan professionals' we were just talking about nurses.
+        The brief for this internal poster was to tackle the misconception by
+        some Macmillan staff that when we talked about 'Macmillan professionals'
+        we were just talking about nurses.
       </p>
 
       <div className="flex flex-col mt-16 space-y-8">
@@ -117,8 +117,7 @@ function Macmillan() {
 
       <p className="max-w-2xl mt-4 mb-16">
         This was used on the Macmillan website to encourage men working outside
-        to find out more about their risk of getting skin cancer. A digital
-        'find out more' button was added on.
+        to find out more about their risk of getting skin cancer.
       </p>
 
       <div className="border">
