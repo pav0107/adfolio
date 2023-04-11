@@ -115,7 +115,7 @@ function Macmillan() {
       <h1 className="mt-16 mb-8 text-4xl font-semibold">Digital ads</h1>
       <Image src="/Macmillan/sun.jpg" alt="sun" width={700} height={700} />
 
-      <p className="max-w-2xl m-4">
+      <p className="max-w-2xl mt-4 mb-16">
         This was used on the Macmillan website to encourage men working outside
         to find out more about their risk of getting skin cancer. A digital
         'find out more' button was added on.
@@ -155,11 +155,11 @@ function Macmillan() {
         </p>
       </div>
 
-      <h1 className="mt-16 mb-8 text-4xl font-semibold">Merchandise</h1>
+      <h1 className="mt-16 mb-16 text-4xl font-semibold">Merchandise</h1>
       <div className="border">
         <Image src="/Macmillan/tote.jpg" alt="tote" width={700} height={700} />
       </div>
-      <p className="max-w-2xl mt-4 mb-8">
+      <p className="max-w-2xl mt-4 mb-16">
         Tote bag, available via be.macmillan.org.uk
       </p>
 
@@ -171,7 +171,7 @@ function Macmillan() {
           height={300}
         />
       </div>
-      <p className="max-w-2xl mt-4 mb-8">
+      <p className="max-w-2xl mt-4 mb-16">
         Travel card holder, available via be.macmillan.org.uk
       </p>
 

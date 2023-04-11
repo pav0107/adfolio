@@ -93,13 +93,13 @@ function Reprieve() {
         height={700}
       />
 
-      <div className="flex flex-col items-center max-w-2xl m-4 space-y-4">
-        <p>
-          zero dB was an initiative, set up by human rights charity Reprieve, to
-          highlight the use of music torture. The very first I created for them
-          was a name (see above).
-        </p>
+      <p className="max-w-2xl pt-8">
+        zero dB was an initiative, set up by human rights charity Reprieve, to
+        highlight the use of music torture. The very first I created for them
+        was a name (see above).
+      </p>
 
+      <div className="flex flex-col items-center max-w-2xl m-4 space-y-4">
         <h1 className="mt-16 mb-8 text-4xl font-semibold">Documentary</h1>
         <p>
           To clearly explain the story of music torture we decided to create a
@@ -203,7 +203,6 @@ function Reprieve() {
       </div>
 
       <h1 className="mt-16 mb-8 text-4xl font-semibold">Mission Statement</h1>
-      <p className="m-4">They also needed a mission statement:</p>
 
       <Image
         src="/Reprieve/missionstatement.jpg"
