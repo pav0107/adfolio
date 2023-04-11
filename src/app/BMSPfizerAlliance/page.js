@@ -8,8 +8,8 @@ function Healthcare() {
 
       <iframe
         src="https://player.vimeo.com/video/75317280?h=753bcd15a4&title=0&byline=0&portrait=0"
-        width="800"
-        height="450"
+        width="1000"
+        height="563"
         frameborder="0"
         allow="autoplay; fullscreen; picture-in-picture"
         allowfullscreen

@@ -8,8 +8,8 @@ function Standup() {
 
       <iframe
         src="https://player.vimeo.com/video/314071085?h=d13976dcde&title=0&byline=0&portrait=0"
-        width="800"
-        height="450"
+        width="1000"
+        height="563"
         frameborder="0"
         allow="autoplay; fullscreen; picture-in-picture"
         allowfullscreen

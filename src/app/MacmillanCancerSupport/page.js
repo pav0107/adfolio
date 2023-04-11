@@ -10,8 +10,8 @@ function Macmillan() {
       </h1>
       <iframe
         src="https://player.vimeo.com/video/187833297?h=87254e3d5c&title=0&byline=0&portrait=0"
-        width="800"
-        height="450"
+        width="1000"
+        height="563"
         frameborder="0"
         allow="autoplay; fullscreen; picture-in-picture"
         allowfullscreen
@@ -29,8 +29,8 @@ function Macmillan() {
       <Image
         src="/Macmillan/confidential.jpg"
         alt="confidential"
-        width={500}
-        height={500}
+        width={700}
+        height={700}
       />
       <p className="max-w-2xl m-4">
         This was a poster to get staff to be even more vigilant with the
@@ -137,8 +137,8 @@ function Macmillan() {
       <h1 className="mt-16 mb-8 text-4xl font-semibold">E-cards</h1>
       <iframe
         src="https://player.vimeo.com/video/147717581?h=33c517fcce&title=0&byline=0&portrait=0"
-        width="800"
-        height="800"
+        width="1000"
+        height="1000"
         frameborder="0"
         allow="autoplay; fullscreen; picture-in-picture"
         allowfullscreen

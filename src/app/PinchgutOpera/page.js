@@ -8,8 +8,8 @@ function Pinchgut() {
 
       <iframe
         src="https://player.vimeo.com/video/21011072?h=3f2a7deb7f&title=0&byline=0&portrait=0"
-        width="800"
-        height="600"
+        width="1000"
+        height="750"
         frameborder="0"
         allow="autoplay; fullscreen; picture-in-picture"
         allowfullscreen

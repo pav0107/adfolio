@@ -125,8 +125,8 @@ function Reprieve() {
       <div className="flex flex-col space-y-16">
         <iframe
           src="https://player.vimeo.com/video/7902785?h=ed1bf27ed8&title=0&byline=0&portrait=0"
-          width="800"
-          height="450"
+          width="1000"
+          height="563"
           frameborder="0"
           allow="autoplay; fullscreen; picture-in-picture"
           allowfullscreen
@@ -134,8 +134,8 @@ function Reprieve() {
 
         <iframe
           src="https://player.vimeo.com/video/7903012?h=a29d7001df&title=0&byline=0&portrait=0"
-          width="800"
-          height="450"
+          width="1000"
+          height="563"
           frameborder="0"
           allow="autoplay; fullscreen; picture-in-picture"
           allowfullscreen
@@ -143,8 +143,8 @@ function Reprieve() {
 
         <iframe
           src="https://player.vimeo.com/video/7903026?h=538210b434&title=0&byline=0&portrait=0"
-          width="800"
-          height="450"
+          width="1000"
+          height="563"
           frameborder="0"
           allow="autoplay; fullscreen; picture-in-picture"
           allowfullscreen

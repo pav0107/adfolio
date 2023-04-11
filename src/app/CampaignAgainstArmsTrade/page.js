@@ -10,8 +10,8 @@ function CAAT() {
       <h1 className="mb-8 text-4xl font-semibold">Stunt</h1>
 
       <iframe
-        width="800"
-        height="450"
+        width="1000"
+        height="563"
         src="//www.youtube.com/embed/e_1FtEY-gp0?rel=0"
         frameborder="0"
         allowfullscreen

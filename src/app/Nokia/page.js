@@ -9,8 +9,8 @@ function Nokia() {
 
       <iframe
         src="https://player.vimeo.com/video/7902608?h=d85b0c85e8&title=0&byline=0&portrait=0"
-        width="800"
-        height="450"
+        width="1000"
+        height="563"
         frameborder="0"
         allow="autoplay; fullscreen; picture-in-picture"
         allowfullscreen
