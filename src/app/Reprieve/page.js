@@ -5,31 +5,6 @@ function Reprieve() {
   return (
     <div className="flex flex-col items-center m-8">
       <h1 className="mb-16 text-5xl font-bold">Reprieve</h1>
-      <h1 className="mb-8 text-4xl font-semibold">Poster for a comedy night</h1>
-      <Image
-        src="/Reprieve/byegeorge.jpg"
-        alt="byegeorge"
-        width={700}
-        height={700}
-      />
-
-      <div className="flex flex-col max-w-2xl m-4 space-y-4">
-        <p className="italic">Art-directed by Paul Belford</p>
-
-        <p className="pt-8">
-          Reprieve is a charity that uses the law to enforce the human rights of
-          prisoners, from death row to Guantánamo Bay.
-        </p>
-        <p className="pb-8">
-          The brief for the poster above was to advertise a night of comedy
-          marking the end of George Bush's presidency: one that's been
-          catastrophic for the world, but great for comedians. The obvious thing
-          to do was to make a joke about George Bush, but that had been done to
-          death. Instead, I thought it would be more interesting and effective
-          to show how comparatively difficult the world of Obama would be for
-          comics.
-        </p>
-      </div>
 
       <h1 className="my-8 text-4xl font-semibold">T-shirt designs</h1>
 
@@ -83,6 +58,46 @@ function Reprieve() {
           width={1000}
           height={1000}
         />
+      </div>
+
+      <h1 className="mt-16 mb-8 text-4xl font-semibold">New Year's Day Card</h1>
+      <Image
+        src="/Reprieve/newyearcard.jpg"
+        alt="newyearcard"
+        width={700}
+        height={700}
+      />
+
+      <p className="max-w-2xl pt-8">
+        A card to mark a new year. Given that so much information Reprieve was
+        working with at the time was so heavily redacted, it felt appropriate to
+        create the message using redaction.
+      </p>
+
+      <h1 className="mb-8 text-4xl font-semibold">Poster for a comedy night</h1>
+      <Image
+        src="/Reprieve/byegeorge.jpg"
+        alt="byegeorge"
+        width={700}
+        height={700}
+      />
+
+      <div className="flex flex-col max-w-2xl m-4 space-y-4">
+        <p className="italic">Art-directed by Paul Belford</p>
+
+        <p className="pt-8">
+          Reprieve is a charity that uses the law to enforce the human rights of
+          prisoners, from death row to Guantánamo Bay.
+        </p>
+        <p className="pb-8">
+          The brief for the poster above was to advertise a night of comedy
+          marking the end of George Bush's presidency: one that's been
+          catastrophic for the world, but great for comedians. The obvious thing
+          to do was to make a joke about George Bush, but that had been done to
+          death. Instead, I thought it would be more interesting and effective
+          to show how comparatively difficult the world of Obama would be for
+          comics.
+        </p>
       </div>
 
       <h1 className="mt-16 mb-8 text-4xl font-semibold">Naming</h1>
