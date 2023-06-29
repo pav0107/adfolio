@@ -64,8 +64,8 @@ function Reprieve() {
       <Image
         src="/Reprieve/newyearcard.jpg"
         alt="newyearcard"
-        width={700}
-        height={700}
+        width={1000}
+        height={1000}
       />
 
       <p className="max-w-2xl pt-8">
