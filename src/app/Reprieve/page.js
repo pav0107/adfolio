@@ -71,7 +71,8 @@ function Reprieve() {
       <p className="max-w-2xl pt-8">
         A card to mark a new year. Given that so much information Reprieve was
         working with at the time was so heavily redacted, it felt appropriate to
-        create the message using redaction.
+        create the message using redaction, with the only unredacted words being
+        'happy', 'new' and 'year'.
       </p>
 
       <h1 className="mt-16 mb-8 text-4xl font-semibold">
