@@ -74,7 +74,9 @@ function Reprieve() {
         create the message using redaction.
       </p>
 
-      <h1 className="mb-8 text-4xl font-semibold">Poster for a comedy night</h1>
+      <h1 className="mt-16 mb-8 text-4xl font-semibold">
+        Poster for a comedy night
+      </h1>
       <Image
         src="/Reprieve/byegeorge.jpg"
         alt="byegeorge"
