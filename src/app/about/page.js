@@ -29,6 +29,10 @@ function page() {
             radio and video.
           </li>
           <li className="py-1">
+            Currently working at{' '}
+            <a href="https://www.goodagency.co.uk/">GOOD</a>.
+          </li>
+          <li className="py-1">
             Performed stand-up comedy across the UK and in Europe to audiences
             of up to 400 people, winning the Bath Comedy Festival’s New Act of
             the Year competition and getting to the semi-final of the BBC New
