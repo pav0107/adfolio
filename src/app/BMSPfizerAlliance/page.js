@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 function Healthcare() {
   return (
-    <div className="flex flex-col items-center justify-center m-8">
+    <div className="flex flex-col items-center justify-center w-full m-8">
       <h1 className="mb-16 text-5xl font-bold">BMS/Pfizer Alliance</h1>
 
       <iframe
