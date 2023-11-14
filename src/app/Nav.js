@@ -7,9 +7,9 @@ function Nav() {
       <Link href="/">
         <h1 className="text-4xl">Pav Rao</h1>
       </Link>
-      <div className="text-2xl">
+      {/* <div className="text-2xl">
         <Link href="about">About</Link>
-      </div>
+      </div> */}
     </div>
   );
 }

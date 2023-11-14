@@ -8,6 +8,44 @@ const inter = Inter({ subsets: ['latin'] });
 export default function Home() {
   return (
     <div>
+      <div className="flex flex-col items-center justify-center m-8">
+        <div className="max-w-xl">
+          <h1 className="mb-4 text-2xl font-bold">A brief bio</h1>
+          <ul className="list-disc">
+            <li className="py-1">
+              Graduate of Tony Cullingham's Watford ad school.
+            </li>
+            <li className="py-1">
+              Placements at Mother, Wieden + Kennedy and DDB amongst others.
+            </li>
+            <li className="py-1">
+              Featured in Creative Review’s ‘Creative Futures’ showcase.
+            </li>
+            <li className="py-1">
+              Hired for first job by Paul Belford at This is Real Art.
+            </li>
+            {/* <li className="py-1">
+              Previous writing includes headlines, naming initiatives, signage,
+              essays, film narration, radio, mission statements, brand
+              guidelines and letters.
+            </li> */}
+            <li className="py-1">
+              Experience in film, radio, posters, press, digital, social, DM,
+              T-shirt design, installations, merchandise, stunts and events.
+            </li>
+            <li className="py-1">
+              Currently working at{' '}
+              <a href="https://www.goodagency.co.uk/">GOOD</a>.
+            </li>
+            <li className="py-1">
+              Performed stand-up comedy across the UK and in Europe to audiences
+              of up to 400 people, winning the Bath Comedy Festival’s New Act of
+              the Year competition and getting to the semi-final of the BBC New
+              Comedy Awards.
+            </li>
+          </ul>
+        </div>
+      </div>
       <div className="flex flex-wrap">
         <Client
           client="Reprieve"
