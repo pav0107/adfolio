@@ -13,7 +13,7 @@ export default function Home() {
           <h1 className="mb-4 text-2xl font-bold">A brief bio</h1>
           <ul className="list-disc">
             <li className="py-1">
-              Graduate of Tony Cullingham's Watford ad school.
+              Graduate of Tony Cullingham's Watford ad course.
             </li>
             <li className="py-1">
               Placements at Mother, Wieden + Kennedy and DDB amongst others.
@@ -30,12 +30,20 @@ export default function Home() {
               guidelines and letters.
             </li> */}
             <li className="py-1">
+              Permanent and freelance roles in a diverse range of advertising
+              agencies, design studios, branding companies and in-house creative
+              teams.
+            </li>
+            <li className="py-1">
               Experience in film, radio, posters, press, digital, social, DM,
               T-shirt design, installations, merchandise, stunts and events.
             </li>
             <li className="py-1">
               Currently working at{' '}
-              <a href="https://www.goodagency.co.uk/">GOOD</a>.
+              <a href="https://www.goodagency.co.uk/">GOOD</a>, a purpose driven
+              strategy and creative agency, working across clients such as RSPB,
+              Marie Curie, Crisis, Macmillan Cancer Support, RNIB and London
+              Business School.
             </li>
             <li className="py-1">
               Performed stand-up comedy across the UK and in Europe to audiences
