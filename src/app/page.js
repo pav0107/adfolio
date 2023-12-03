@@ -39,11 +39,10 @@ export default function Home() {
               T-shirt design, installations, merchandise, stunts and events.
             </li>
             <li className="py-1">
-              Currently working at{' '}
-              <a href="https://www.goodagency.co.uk/">GOOD</a>, a purpose driven
-              strategy and creative agency, working across clients such as RSPB,
-              Marie Curie, Crisis, Macmillan Cancer Support, RNIB and London
-              Business School.
+              Currently at <a href="https://www.goodagency.co.uk/">GOOD</a>, a
+              purpose driven strategy and creative agency, working across
+              clients such as RSPB, Marie Curie, Crisis, Macmillan Cancer
+              Support, RNIB and London Business School.
             </li>
             <li className="py-1">
               Performed stand-up comedy across the UK and in Europe to audiences
