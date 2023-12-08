@@ -8,7 +8,7 @@ function Nokia() {
       <h1 className="mb-8 text-4xl font-semibold">In-store videos</h1>
 
       <iframe
-        src="https://player.vimeo.com/video/7902608?h=d85b0c85e8&title=0&byline=0&portrait=0"
+        src="https://player.vimeo.com/video/892568446?h=d81888ceaf&title=0&byline=0&portrait=0"
         width="1000"
         height="563"
         frameborder="0"
